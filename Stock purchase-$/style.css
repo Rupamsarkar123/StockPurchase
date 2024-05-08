@@ -1,0 +1,45 @@
+h1{
+    color: brown;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+#initial-price{
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 25px;
+
+}
+#no-stocks{
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+#current-price{
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 25px;
+    
+}
+#submit-btn{
+    margin-bottom: 25px;
+}
+
+
+#main {
+    /* Add your styles here */
+    height: 50vh;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+    padding: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+
+}
+
